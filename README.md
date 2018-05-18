@@ -1,2 +1,2 @@
 # speech-synthesis
-Text selection/script design for unit selection voices
+Text selection/script design for unit selection voices.
